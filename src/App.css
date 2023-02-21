@@ -1,0 +1,27 @@
+.navbar{
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+}
+.navbar a{
+  color: white;
+  font-size: 2rem;
+  text-decoration: none;
+  padding: 1.6%;
+
+}
+.navbar a:hover{
+  background-color: grey;
+  color:black;
+}
+.group{
+   width:20;
+   display:inline-block;
+}
+ .btn{
+   width:20;
+   padding: 1%;
+   border-width: 1px;
+   background-color:pink;
+   color: white;
+ }
